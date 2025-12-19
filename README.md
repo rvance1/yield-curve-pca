@@ -16,8 +16,14 @@ level, slope, and curvature factors and tests simple mean-reversion trading sign
 - Signal backtesting
 
 ## Results
-- PC1: Level (~75%)
-- PC2: Slope (~15%)
-- PC3: Curvature (~5%)
+- PC1: Level (~84%)
+- PC2: Slope (~12%)
+- PC3: Curvature (~2%)
 
-## Structure
+## PCA Loadings (Yield Curve Shapes)
+
+The first three principal components correspond to the canonical
+level, slope, and curvature movements of the U.S. Treasury yield curve.
+
+![PCA Loadings](figures/pca_loadings.png)
+
