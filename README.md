@@ -5,8 +5,10 @@ level, slope, and curvature factors and tests simple mean-reversion trading sign
 
 ## Data
 - WRDS Treasury Yield Curve
-- Daily maturities: 3M–30Y
+- Monthly maturities: 3M–30Y
 - 2000–present
+
+![Yield Rates](figures/yield_rates.png)
 
 ## Methodology
 - Yield changes (Δy)
